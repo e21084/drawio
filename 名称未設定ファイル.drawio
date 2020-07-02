@@ -1,38 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-07-02T05:04:22.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ZhHKBE-onsil9qGhJD5v" version="13.3.6" type="github">
-  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-07-02T05:13:03.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8iWK1UDtz8o09c5nNr_M" version="13.3.6" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="プリンシプルの関係">
+    <mxGraphModel dx="1261" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="21531" value="" style="ellipse;fillColor=#F08705;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="339.5" y="308.5" width="500" height="500" as="geometry" />
+          <mxGeometry x="339.5" y="313.5" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="21532" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="179.5" y="18.5" width="500" height="500" as="geometry" />
+          <mxGeometry x="179.5" y="23.5" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="21533" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="489.5" y="18.5" width="500" height="500" as="geometry" />
+          <mxGeometry x="489.5" y="23.5" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="21534" value="迅速開発" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="299.5" y="228.5" width="190" height="70" as="geometry" />
+          <mxGeometry x="299.5" y="233.5" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="21535" value="自動化の推進" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="699.5" y="228.5" width="190" height="70" as="geometry" />
+          <mxGeometry x="699.5" y="233.5" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="21536" value="全体アーキテクチャ" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="499.5" y="558.5" width="190" height="70" as="geometry" />
+          <mxGeometry x="499.5" y="563.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="21537" value="Military" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="569.5" y="198.5" width="40" height="40" as="geometry" />
+        <mxCell id="21537" value="開発の領域で&lt;br&gt;双方を利用" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="203.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="21538" value="Conflict" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="449.5" y="418.5" width="40" height="40" as="geometry" />
+        <mxCell id="21538" value="迅速開発は主に&lt;br&gt;攻めの領域&lt;br&gt;で利用" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="449.5" y="423.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="21539" value="Chaos" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="699.5" y="418.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="699.5" y="423.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="21540" value="Balance" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="569.5" y="348.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="569.5" y="353.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uYIvS-Z6A487wKeSPWLn-21542" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="565" as="sourcePoint" />
+            <mxPoint x="419.5" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uYIvS-Z6A487wKeSPWLn-21545" value="全体アーキテクチャのうち、&lt;br&gt;攻めの領域では迅速開発が&lt;br&gt;主な開発手法となる" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="85" y="565" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uYIvS-Z6A487wKeSPWLn-21548" value="プリンシプルの関係図" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=25;fontFamily=Verdana;fontStyle=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="23.5" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
